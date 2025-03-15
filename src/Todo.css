@@ -1,0 +1,62 @@
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 34px;
+    font-weight: lighter;
+    color: #034C53;
+}
+
+form{
+    background-color:#034C53;
+    width: 50%;
+    height:100px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.input-section
+{
+    width: 500px;
+    height: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 18px;
+    margin-top: 25px;
+    color: black;
+}
+
+button{
+    width:100px;
+    height:43px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.todo-data{
+    background-color: #007074;
+    width: 50%;
+    height:auto;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.data{
+    font-size: 18px;
+    color: #fff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.remove-btn{
+    width:100px;
+    height:30px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0px;
+    border-radius: 5px;
+    font-size: 18px;
+}
